@@ -1,0 +1,102 @@
+                          levelName      id stops         lng        lat jobs packages
+1   Root                                 NA    NA                          NA         
+2    ¦--deliveries                       NA    NA                          NA         
+3    ¦   ¦--1                        991916    NA                          NA         
+4    ¦   ¦   ¦--from                     NA    NA  121.034268  14.505526   NA         
+5    ¦   ¦   ¦--to                       NA    NA   121.02368  14.487604   NA         
+6    ¦   ¦   °--packages                 NA    NA                          NA         
+7    ¦   ¦       ¦--1                    NA    NA                          NA         
+8    ¦   ¦       ¦--2                    NA    NA                          NA         
+9    ¦   ¦       ¦--3                    NA    NA                          NA         
+10   ¦   ¦       ¦--4                    NA    NA                          NA         
+11   ¦   ¦       ¦--5                    NA    NA                          NA         
+12   ¦   ¦       ¦--6                    NA    NA                          NA         
+13   ¦   ¦       ¦--7                    NA    NA                          NA         
+14   ¦   ¦       ¦--8                    NA    NA                          NA         
+15   ¦   ¦       ¦--9                    NA    NA                          NA         
+16   ¦   ¦       ¦--10                   NA    NA                          NA         
+17   ¦   ¦       ¦--11                   NA    NA                          NA         
+18   ¦   ¦       ¦--12                   NA    NA                          NA         
+19   ¦   ¦       ¦--13                   NA    NA                          NA         
+20   ¦   ¦       ¦--14                   NA    NA                          NA         
+21   ¦   ¦       ¦--15                   NA    NA                          NA         
+22   ¦   ¦       °--16                   NA    NA                          NA         
+23   ¦   ¦--2                        991751    NA                          NA         
+24   ¦   ¦   ¦--from                     NA    NA  121.034268  14.505526   NA         
+25   ¦   ¦   ¦--to                       NA    NA    121.0458    14.5548   NA         
+26   ¦   ¦   °--packages                 NA    NA                          NA         
+27   ¦   ¦       ¦--1                    NA    NA                          NA         
+28   ¦   ¦       ¦--2                    NA    NA                          NA         
+29   ¦   ¦       ¦--3                    NA    NA                          NA         
+30   ¦   ¦       ¦--4                    NA    NA                          NA         
+31   ¦   ¦       ¦--5                    NA    NA                          NA         
+32   ¦   ¦       ¦--6                    NA    NA                          NA         
+33   ¦   ¦       °--7                    NA    NA                          NA         
+34   ¦   ¦--3                       1022237    NA                          NA         
+35   ¦   ¦   ¦--from                     NA    NA  121.034268  14.505526   NA         
+36   ¦   ¦   ¦--to                       NA    NA 121.0564671 14.5687319   NA         
+37   ¦   ¦   °--packages                 NA    NA                          NA         
+38   ¦   ¦       ¦--1                    NA    NA                          NA         
+39   ¦   ¦       ¦--2                    NA    NA                          NA         
+40   ¦   ¦       ¦--3                    NA    NA                          NA         
+41   ¦   ¦       ¦--4                    NA    NA                          NA         
+42   ¦   ¦       ¦--5                    NA    NA                          NA         
+43   ¦   ¦       ¦--6                    NA    NA                          NA         
+44   ¦   ¦       °--7                    NA    NA                          NA         
+45   ¦   ¦--4                       1022216    NA                          NA         
+46   ¦   ¦   ¦--from                     NA    NA  121.034268  14.505526   NA         
+47   ¦   ¦   ¦--to                       NA    NA 121.0537597 14.5494754   NA         
+48   ¦   ¦   °--packages                 NA    NA                          NA         
+49   ¦   ¦       ¦--1                    NA    NA                          NA         
+50   ¦   ¦       ¦--2                    NA    NA                          NA         
+51   ¦   ¦       ¦--3                    NA    NA                          NA         
+52   ¦   ¦       ¦--4                    NA    NA                          NA         
+53   ¦   ¦       ¦--5                    NA    NA                          NA         
+54   ¦   ¦       ¦--6                    NA    NA                          NA         
+55   ¦   ¦       °--7                    NA    NA                          NA         
+56   ¦   ¦--5                       1022220    NA                          NA         
+57   ¦   ¦   ¦--from                     NA    NA  121.034268  14.505526   NA         
+58   ¦   ¦   ¦--to                       NA    NA 121.0764455 14.5680547   NA         
+59   ¦   ¦   °--packages                 NA    NA                          NA         
+60   ¦   ¦       ¦--1                    NA    NA                          NA         
+61   ¦   ¦       ¦--2                    NA    NA                          NA         
+62   ¦   ¦       ¦--3                    NA    NA                          NA         
+63   ¦   ¦       ¦--4                    NA    NA                          NA         
+64   ¦   ¦       ¦--5                    NA    NA                          NA         
+65   ¦   ¦       ¦--6                    NA    NA                          NA         
+66   ¦   ¦       °--7                    NA    NA                          NA         
+67   ¦   °--6                       1022223    NA                          NA         
+68   ¦       ¦--from                     NA    NA  121.034268  14.505526   NA         
+69   ¦       ¦--to                       NA    NA 121.0949572 14.5913077   NA         
+70   ¦       °--packages                 NA    NA                          NA         
+71   ¦           ¦--1                    NA    NA                          NA         
+72   ¦           ¦--2                    NA    NA                          NA         
+73   ¦           ¦--3                    NA    NA                          NA         
+74   ¦           ¦--4                    NA    NA                          NA         
+75   ¦           ¦--5                    NA    NA                          NA         
+76   ¦           ¦--6                    NA    NA                          NA         
+77   ¦           °--7                    NA    NA                          NA         
+78   ¦--couriers                         NA    NA                          NA         
+79   ¦   ¦--1                           200    NA                          NA         
+80   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+81   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+82   ¦   ¦--2                           102    NA                          NA         
+83   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+84   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+85   ¦   ¦--3                           103    NA                          NA         
+86   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+87   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+88   ¦   ¦--4                           104    NA                          NA         
+89   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+90   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+91   ¦   ¦--5                           105    NA                          NA         
+92   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+93   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+94   ¦   ¦--6                           106    NA                          NA         
+95   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+96   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+97   ¦   ¦--7                           107    NA                          NA         
+98   ¦   ¦   ¦--initial                  NA    NA  121.001168  14.577072   NA         
+99   ¦   ¦   °--final                    NA    NA  121.034268  14.505526   NA         
+100  ¦   °--... 93 nodes w/ 186 sub      NA    NA                          NA         
+101  °--... 4 nodes w/ 451 sub           NA    NA                          NA         

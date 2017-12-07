@@ -1,0 +1,34 @@
+                   levelName courier_id stops start_at end_at      lng      lat      id     type
+1  Root                              NA             NA     NA       NA       NA      NA         
+2   ¦--unserved_deliveries           NA             NA     NA       NA       NA      NA         
+3   °--tours                         NA             NA     NA       NA       NA      NA         
+4       °--1                        102             NA     NA       NA       NA      NA         
+5           °--stops                 NA             NA     NA       NA       NA      NA         
+6               ¦--1                 NA             NA     NA 121.0343 14.50553      NA         
+7               ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+8               ¦       ¦--1         NA             NA     NA       NA       NA  991916   pickup
+9               ¦       ¦--2         NA             NA     NA       NA       NA 1022220   pickup
+10              ¦       ¦--3         NA             NA     NA       NA       NA 1022223   pickup
+11              ¦       ¦--4         NA             NA     NA       NA       NA 1022237   pickup
+12              ¦       ¦--5         NA             NA     NA       NA       NA 1022216   pickup
+13              ¦       °--6         NA             NA     NA       NA       NA  991751   pickup
+14              ¦--2                 NA             NA     NA 121.0538 14.54948      NA         
+15              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+16              ¦       °--1         NA             NA     NA       NA       NA 1022216 delivery
+17              ¦--3                 NA             NA     NA 121.0458 14.55480      NA         
+18              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+19              ¦       °--1         NA             NA     NA       NA       NA  991751 delivery
+20              ¦--4                 NA             NA     NA 121.0565 14.56873      NA         
+21              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+22              ¦       °--1         NA             NA     NA       NA       NA 1022237 delivery
+23              ¦--5                 NA             NA     NA 121.0764 14.56805      NA         
+24              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+25              ¦       °--1         NA             NA     NA       NA       NA 1022220 delivery
+26              ¦--6                 NA             NA     NA 121.0950 14.59131      NA         
+27              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+28              ¦       °--1         NA             NA     NA       NA       NA 1022223 delivery
+29              ¦--7                 NA             NA     NA 121.0237 14.48760      NA         
+30              ¦   °--jobs          NA             NA     NA       NA       NA      NA         
+31              ¦       °--1         NA             NA     NA       NA       NA  991916 delivery
+32              °--8                 NA             NA     NA 121.0343 14.50553      NA         
+33                  °--jobs          NA             NA     NA       NA       NA      NA         
